@@ -5,4 +5,3 @@ Credit Card Fraud Detection is a classic class-imbalance problem where the numbe
     1. What time does the Credit Card Frauds usually take place?
     2. What are the general trends of amounts for Credit Card Fraud Transactions?
     3. How do we balance the data to not let the model overfit on legitimate transactions?
-    4. what time most fraud detection happens?
